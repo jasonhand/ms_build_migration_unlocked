@@ -28,7 +28,7 @@ Explore tools, best practices, and implementation guides to support each phase o
   [Cloud Migration Monitoring Tips](https://www.datadoghq.com/blog/cloud-migration-monitoring)
 
 - 🌐 **Full Solution Overview**  
-  [Datadog Cloud Migration Solution Hub](https://www.datadoghq.com/solutions/cloud-migration)
+  [Datadog Cloud Migration Case Studies](https://www.datadoghq.com/solutions/cloud-migration)
 
 - [Gartner Report](https://github.com/jasonhand/ms_build_migration_unlocked/blob/main/slides/MS%20Build%202025%20-%20Unlock%20Cloud%20Migration%20Success.pdf)  
 
