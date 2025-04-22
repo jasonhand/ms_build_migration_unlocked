@@ -29,3 +29,9 @@ Explore tools, best practices, and implementation guides to support each phase o
 
 - 🌐 **Full Solution Overview**  
   [Datadog Cloud Migration Solution Hub](https://www.datadoghq.com/solutions/cloud-migration)
+
+- [Gartner Report](https://github.com/jasonhand/ms_build_migration_unlocked/blob/main/slides/MS%20Build%202025%20-%20Unlock%20Cloud%20Migration%20Success.pdf)  
+
+- [Azure Migrate](https://azure.microsoft.com/products/azure-migrate)
+- [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/)
+
