@@ -1,12 +1,12 @@
 # Unlock Cloud Migration Success
 
-![Unlock cloud migration success](image.png)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/20f1fb44-a440-4be1-bb02-c7a30804a653" />
 
 Welcome! This page contains all the key resources referenced in the **"Unlock Cloud Migration Success"** presentation from **Microsoft Build 2025**. Whether you're planning your first move to the cloud or optimizing an ongoing migration, these resources are here to help you navigate the process with clarity and confidence.
 
 ## 📑 Presentation Slides
 
-- 📂 [Download the presentation slides (PDF)](slides/MS Build 2025 - Unlock Cloud Migration Success.pdf)
+- 📂 [Download the presentation slides (PDF)](https://github.com/jasonhand/ms_build_migration_unlocked/blob/main/slides/MS%20Build%202025%20-%20Unlock%20Cloud%20Migration%20Success.pdf)
 
 ## 🔧 Key Resources
 
