@@ -6,7 +6,7 @@ Welcome! This page contains all the key resources referenced in the **"Unlock Cl
 
 ## 📑 Presentation Slides
 
-- 📂 [Download the presentation slides (PDF)]([slides/MS Build 2025 - Unlock Cloud Migration Success.pdf](https://github.com/jasonhand/ms_build_migration_unlocked/blob/main/slides/MS%20Build%202025%20-%20Unlock%20Cloud%20Migration%20Success.pdf))
+- 📂 [Download the presentation slides (PDF)](https://github.com/jasonhand/ms_build_migration_unlocked/blob/main/slides/MS%20Build%202025%20-%20Unlock%20Cloud%20Migration%20Success.pdf)
 
 ## 🔧 Key Resources
 
