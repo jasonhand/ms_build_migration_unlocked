@@ -1,5 +1,7 @@
 # Unlock Cloud Migration Success
 
+[Watch the session here](https://build.microsoft.com/en-US/sessions/c6bf593c-73a3-4c8a-b186-fafbd7670741)
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/20f1fb44-a440-4be1-bb02-c7a30804a653" />
 
 Welcome! This page contains all the key resources referenced in the **"Unlock Cloud Migration Success"** presentation from **Microsoft Build 2025**. Whether you're planning your first move to the cloud or optimizing an ongoing migration, these resources are here to help you navigate the process with clarity and confidence.
